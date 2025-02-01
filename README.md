@@ -1,1 +1,1 @@
-# 2023_SW-Convergence-Hackathon
+# 2023_SW_Convergence_Hackathon (SeaGuard)
